@@ -59,7 +59,7 @@ h3{
      letter-spacing: 0.02em;
      color: #434455;
 }
-.ref:hover, :active, :focus{
+.ref, .ref1 :hover, :active, :focus{
     color:#404bbf;
     
 }
