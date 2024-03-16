@@ -41,13 +41,11 @@ h3{
     text-decoration: none;
     line-height: 1.5;
     font-weight: 500;
+    font-size: 16px;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.ref:hover{
+.ref:hover, :active, :focus{
     color:#404bbf;
     
-}
-.ref:active{
-    color:#404bbf ;
 }
