@@ -5,10 +5,10 @@ body {
     background-color: #FFFFFF;
 }
 .logo{
-    font-style: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    color: #2E2F42;
+    color: #4d5ae5;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -16,7 +16,7 @@ body {
 }
 #logo{
     color: #2e2f42 ;
-    font-family: "Raleway"
+    font-family: "Raleway", sans-serif;
     
 }
 .address{
@@ -48,7 +48,16 @@ h3{
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.02em;
-    color: #4d5ae5;
+    color:  #2e2f42;
+}
+.ref1{
+     font-family: "Raleway", sans-serif;
+     text-decoration: none;
+     line-height: 1.5;
+     font-weight: 500;
+     font-size: 16px;
+     letter-spacing: 0.02em;
+     color: #434455;
 }
 .ref:hover, :active, :focus{
     color:#404bbf;
