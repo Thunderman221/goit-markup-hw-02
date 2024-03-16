@@ -12,7 +12,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:  #2e2f42 ;
 }
 #logo{
     color: #2e2f42 ;
@@ -62,6 +61,6 @@ h3{
 .ref :hover, :active, :focus{
     color:#404bbf;   
 }
-.ref1 :hover, :active, :focus{
+.ref1 {
    color:#404bbf;   
 }
