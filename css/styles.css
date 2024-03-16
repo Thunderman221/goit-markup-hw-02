@@ -15,9 +15,13 @@ body {
     color:  #2e2f42 ;
 }
 #logo{
-    color: #4D5AE5;
+    color: #2e2f42 ;
     font-family: "Raleway"
     
+}
+.address{
+    font-style: normal;
+    color: #434455;
 }
 h1, h2{
     text-align: center;
@@ -38,12 +42,13 @@ h3{
     letter-spacing: 2%;
 }
 .ref{
+    font-family: "Raleway", sans-serif;
     text-decoration: none;
     line-height: 1.5;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 .ref:hover, :active, :focus{
     color:#404bbf;
