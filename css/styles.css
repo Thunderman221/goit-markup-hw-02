@@ -59,7 +59,10 @@ h3{
      color: #434455;
 }
 .ref :hover, :active, :focus{
-    color:#404bbf;   
+    color:#404bbf;  
+}
+.ref :hover{
+    color: #404bbf;
 }
 .ref1 {
    color:#404bbf;   
