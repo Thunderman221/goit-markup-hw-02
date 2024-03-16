@@ -61,9 +61,6 @@ h3{
 .ref :hover, :active, :focus{
     color:#404bbf;  
 }
-.ref :hover{
-    color: #404bbf;
-}
-.ref1 {
+.ref1:hover, :active, :focus {
    color:#404bbf;   
 }
