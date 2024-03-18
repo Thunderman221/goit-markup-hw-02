@@ -40,7 +40,7 @@ body {
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.header-list-ref :hover{
+.header-list-ref:hover{
     color: #404bbf;
 }
 .header-address-ref{
@@ -50,10 +50,12 @@ body {
      font-weight: 500;
      font-size: 16px;
      letter-spacing: 0.02em;
-     color: #2e2f42;
+     color: #434455;
 }
-.header-address-ref :hover, :active, :focus {
-   color:#404bbf;   
+.header-address-ref:hover,
+.header-address-ref:active,
+.header-address-ref:focus {
+    color: #404bbf;
 }
 /* section1 */
 .sec1{
