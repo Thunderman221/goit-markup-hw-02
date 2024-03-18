@@ -50,9 +50,9 @@ body {
      font-weight: 500;
      font-size: 16px;
      letter-spacing: 0.02em;
-     color: #434455;
+     color: #2e2f42;
 }
-.address-ref :hover, :active, :focus {
+.header-address-ref :hover, :active, :focus {
    color:#404bbf;   
 }
 /* section1 */
