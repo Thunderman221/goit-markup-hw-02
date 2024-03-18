@@ -59,10 +59,10 @@ body {
 }
 
 /* section1 */
-.sec1 {
+.section-one {
   background-color: #2e2f42;
 }
-.sec1-header1 {
+.section-one-h1 {
   text-align: center;
   font-weight: 700;
   font-size: 56px;
