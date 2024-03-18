@@ -119,8 +119,8 @@ body {
 }
 .sec-three-header-three {
   font-weight: 500;
-  font-size: 36px;
-  line-height: 1.11;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -132,7 +132,7 @@ body {
 }
 
 /* section 4 */
-.sec4-h2 {
+.sec-four-header-two {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -140,7 +140,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.sec4-h3 {
+.sec-four-header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
