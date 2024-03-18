@@ -62,7 +62,7 @@ body {
 .section-one {
   background-color: #2e2f42;
 }
-.section-one-h1 {
+.section-one-h-one {
   text-align: center;
   font-weight: 700;
   font-size: 56px;
@@ -89,12 +89,12 @@ body {
 }
 
 /* section 2 */
-.sec2-list-p {
+.sec-two-list-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.sec2-list-header3 {
+.sec-two-list-header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
