@@ -103,10 +103,10 @@ body {
 }
 
 /* section 3 */
-.sec3 {
+.sec-three {
   background-color: #f4f4fd;
 }
-.sec3-h2 {
+.sec-three-header-three {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -114,17 +114,17 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.sec3-list {
+.sec-three-list {
   background-color: #ffffff;
 }
-.sec3-h3 {
+.sec-three-header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.sec3-p {
+.sec-three-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
