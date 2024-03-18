@@ -31,7 +31,7 @@ body {
     color: #434455;
 }
 
-.ref{
+.header-list-ref{
     font-family: "Raleway", sans-serif;
     text-decoration: none;
     line-height: 1.5;
@@ -40,7 +40,10 @@ body {
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.ref1{
+.header-list-ref :hover{
+    color: #404bbf;
+}
+.header-address-ref{
      font-family: "Raleway", sans-serif;
      text-decoration: none;
      line-height: 1.5;
@@ -49,7 +52,7 @@ body {
      letter-spacing: 0.02em;
      color: #434455;
 }
-.ref1 :hover, :active, :focus {
+.address-ref :hover, :active, :focus {
    color:#404bbf;   
 }
 /* section1 */
