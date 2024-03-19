@@ -11,6 +11,9 @@ body {
   line-height: 24px;
   letter-spacing: 2%;
 }
+.ul {
+  list-style: none;
+}
 /* header */
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -20,6 +23,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 .header-logo-span {
   color: #2e2f42;
@@ -31,7 +35,6 @@ body {
 }
 
 .header-list-ref {
-  font-family: "Raleway", sans-serif;
   text-decoration: none;
   line-height: 1.5;
   font-weight: 500;
@@ -44,10 +47,8 @@ body {
   color: #404bbf;
 }
 .header-address-ref {
-  font-family: "Raleway", sans-serif;
   text-decoration: none;
   line-height: 1.5;
-  font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
@@ -164,6 +165,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
   color: #4d5ae5;
 }
 .footer-logo-span {
